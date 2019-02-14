@@ -1,0 +1,7 @@
+# useHotkey ignores... 
+__tests__/__snapshots__ 
+dist/ 
+node_modules/ 
+*log 
+*lock 
+.DS_Store

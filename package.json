@@ -1,0 +1,24 @@
+{
+  "name": "use-hotkey",
+  "version": "0.0.0",
+  "description": "React hook for adding GitHub's hotkey library functionality to functional components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffdavis92/use-hotkey.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "hotkey"
+  ],
+  "author": "Geoff Davis <geoffdavis92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoffdavis92/use-hotkey/issues"
+  },
+  "homepage": "https://github.com/geoffdavis92/use-hotkey#readme"
+}
